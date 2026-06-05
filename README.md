@@ -163,7 +163,7 @@ If you use this code, please cite:
 @software{li2026uniesmb,
   title   = {{UniESMBinderDesign}: Gradient-guided binder design for protein, RNA, and DNA targets},
   year    = {2026},
-  url     = {https://github.com/yourusername/UniESMBinderDesign}
+  url     = {https://github.com/leeyang/UniESMBinderDesign}
 }
 ```
 
